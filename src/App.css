@@ -2,6 +2,7 @@
     height: 1000vh;
     background-color: midnightblue;
     color: white;
+    font-size:0vh;
     padding-left: 10px;
     padding-top: 10px;
 }
@@ -9,4 +10,3 @@
 .dropdown-item { /* Target all dropdown items */
     text-align: center; /* Center the text within the item */
 }
-  
